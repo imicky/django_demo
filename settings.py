@@ -1,4 +1,4 @@
-# Django settings for django_demo project.
+# Django settings for django_demo project.测试中文～～～
 
 import os.path
 
